@@ -1,4 +1,9 @@
-Chạy câu lệnh sau để tạo project:
+## Chạy câu lệnh sau để tạo project:
+```
 npm i
-Run project
+```
+
+## Run project
+```
 npm start
+```
